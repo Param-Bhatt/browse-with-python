@@ -22,3 +22,6 @@ Suggested Changes :
 2.Later sync it all so that it becomes a lot easier for ewveryone later on.
 
 3.Edit the script so that it can also click on the download button once the prompt comes, makes your life a lot easier.
+
+If you want to run it, use it on server or via ssh.
+For ssh : refer https://www.bogotobogo.com/python/python_ssh_remote_run.php
