@@ -3,7 +3,7 @@ import pymysql
 HOST = '172.16.100.66'
 PORT = 3306
 USER = "root"
-PASSWORD = "@)!&swd2NUC!*"
+PASSWORD = #yourpasswordgoeshere
 DB = "swd"
 
 conn = pymysql.connect(host=HOST , user=USER, passwd=PASSWORD)
