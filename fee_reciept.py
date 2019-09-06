@@ -11,7 +11,7 @@ from mysql.connector import mysql.connector as db
 HOST = "172.16.100.66/phpmyadmin"
 PORT = 3306
 USER = "root"
-PASSWORD = "@)!&swd2NUC!*"
+PASSWORD = #your password goes here
 DB = "swd"
 
 conn = mysql.connector.connection(host=HOST, port=PORT,
